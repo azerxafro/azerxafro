@@ -1,4 +1,4 @@
-## Hello Boyzz! 👋
+## Hello Boyzz! 👋 [![GitHub Commits Badge](https://ghcommits.com/api/badge/azerxafro.svg)](https://ghcommits.com)
 
 - 🔭 Currently focused on independent projects and discovering emerging technologies.
 - 🌱 Presently studying cloud solutions and data analysis techniques in AWS.
