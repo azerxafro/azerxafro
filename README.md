@@ -8,4 +8,3 @@
 - 📫 Get in touch: [ashwinazer@monadelta.me]
 - 😄 Pronouns: He/Him
 - ⚡ Interesting fact: Iam a music artist too
-- [![GitHub Commits Badge](https://ghcommits.com/api/badge/azerxafro.svg)](https://ghcommits.com/u/azerxafro)
