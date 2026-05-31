@@ -5,6 +5,6 @@
 - 👯 Seeking partnerships on open-source initiatives in web development and AI fields.
 - 🤔 Need assistance with improving code efficiency and developing new functionalities.
 - 💬 Happy to discuss my background in software development and project leadership.
-- 📫 Get in touch: [ashwinazer@monadelta.me]
+- 📫 Get in touch: [work@ashwinazer.me]
 - 😄 Pronouns: He/Him
 - ⚡ Interesting fact: Iam a music artist too
